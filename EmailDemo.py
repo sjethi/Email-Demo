@@ -25,7 +25,7 @@ html = """\
 <html>
   <head></head>
   <body>
-    <p>Hi Cary! <br>
+    <p>Hi! <br>
        How are you? I am using a Python Email Sending Module writting to you!<br>
        Here is the <a href="http://www.python.org">link</a> you wanted.
     </p>
